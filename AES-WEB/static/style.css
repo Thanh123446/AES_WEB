@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+background: url('/static/tải\ xuống.jfif') ;
+  background-size: cover;
+  color: #333;
+}
+
+.card {
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+h2 {
+  text-transform: uppercase;    
+  color: #00b894;                
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.container {
+  background-color: rgba(255, 255, 255, 0.85); /* mờ nhẹ */
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 16px rgba(0,0,0,0.15);
+}
+
